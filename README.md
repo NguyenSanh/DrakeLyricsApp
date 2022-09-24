@@ -3,4 +3,4 @@ Lyrics web application with embedded YouTube video.
 
 Link to web app: https://nguyensanh.github.io/Drake-Find-Your-Love-Lyrics-App/
 
-![Site Preview](DogeCoin_Tracker_Preview.png)
+![Site Preview](Drake_FindYourLove.png)
